@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  publish_mode: editorial_workflow
   branch: main
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
@@ -140,14 +141,6 @@ collections:
       - { label: 'Template', name: 'template', widget: 'hidden', default: 'recipe'}
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Start slug with /. Use only alphanumeric characters, - and _. Avoid spaces in any cases.'}
-      - {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime',
-          dateFormat: 'YYYY-MM-DD',
-          timeFormat: 'HH:mm',
-          format: 'YYYY-MM-DD HH:mm',
-        }
       - { label: 'SEO Description', name: 'description', widget: 'text' }
       - {
           label: 'Featured Image',
@@ -156,5 +149,5 @@ collections:
           required: false,
           tagname: ''
         }
-
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+      - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
