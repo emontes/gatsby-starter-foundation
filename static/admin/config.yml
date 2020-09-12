@@ -127,3 +127,34 @@ collections:
             name: ga
             widget: string
             hint: "Add you tracking ID, for example UA-XXXXXXXXX-X"
+  - name: 'recipes'
+    label: 'Recipes'
+    label_singular: 'Recipe'
+    description: >
+      Aquí puedes crear tu receta
+    folder: 'src/content/recipes'
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    create: true
+    fields: 
+      - { label: 'Template', name: 'template', widget: 'hidden', default: 'recipe'}
+      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Start slug with /. Use only alphanumeric characters, - and _. Avoid spaces in any cases.'}
+       - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          dateFormat: 'YYYY-MM-DD',
+          timeFormat: 'HH:mm',
+          format: 'YYYY-MM-DD HH:mm',
+        }
+      - { label: 'SEO Description', name: 'description', widget: 'text' }
+      - {
+          label: 'Featured Image',
+          name: 'featuredImage',
+          widget: 'image',
+          required: false,
+          tagname: ''
+        }
+
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
