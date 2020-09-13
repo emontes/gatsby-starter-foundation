@@ -17,3 +17,5 @@ A pile of creamy cauliflower mash sets the stage and then gets tucked in by thos
 Do you even hear me? Leave work immediately. Pack the kids in the car. Go to the grocery store. Make this your life’s mission.
 
 It is peak cozy, nutritious, and cool-weather wonderful.
+
+![Image 2](/assets/shrimp-and-cauliflower-1-3.jpg "Shrimp")
