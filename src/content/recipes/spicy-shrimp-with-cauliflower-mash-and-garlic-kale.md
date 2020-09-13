@@ -11,6 +11,11 @@ intro:
   description: Spicy Shrimp with Cauliflower Mash and Garlic Kale – tender-sweet
     shrimp and smoky garlic kale over creamy cauliflower mash. The most
     DELICIOUS fake-fancy weeknight dinner!
+recipe:
+  heading: spicy shrimp with cauliflower mash and garlic kale
+  description: Spicy Shrimp with Cauliflower Mash and Garlic Kale – tender-sweet
+    shrimp and smoky garlic kale over creamy cauliflower mash. The most
+    DELICIOUS fake-fancy weeknight dinner!
 ---
 A pile of creamy cauliflower mash sets the stage and then gets tucked in by those smoky greens before finally getting piled high with a mound of aggressively seasoned, salty, juicy shrimp.
 
