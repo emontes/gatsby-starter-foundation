@@ -38,6 +38,14 @@ recipe:
         3. **Shrimp:** In the same skillet, add the oil over medium heat. Pat the shrimp dry. Add to the pan and sprinkle with seasonings to taste. Cook for just a few minutes and then add a quick splash of water or broth to the pan (about 2 tablespoons) to pull the browned bits and spices into something of a saucy-coating for the shrimp. It’s delicious.
 
         4. **Serve:** Serve the shrimp and kale over a big pile of cauliflower mash! SO yummy.
+  tags:
+    - camarones
+    - ajillo
+    - arroz
+  category:
+    - Cena
+  subcategory:
+    - Americana
 ---
 A pile of creamy cauliflower mash sets the stage and then gets tucked in by those smoky greens before finally getting piled high with a mound of aggressively seasoned, salty, juicy shrimp.
 
