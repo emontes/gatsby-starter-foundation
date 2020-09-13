@@ -52,7 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variable files
-.env*
 
 # gatsby files
 .cache/
@@ -70,3 +69,4 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+config.bat
