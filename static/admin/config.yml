@@ -150,4 +150,19 @@ collections:
           tagname: ''
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-      - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+      - {label: Recipe Card, name: recipe, widget: object, fields: [
+          {label: Encabezado, name: heading, widget: string}, 
+          {label: Descripción, name: description, widget: text}, 
+          {label: Ingredientes, name: ingredients, widget: list, fields: [
+            {label: Ingrediente, name: ingredient, widget: text}
+            ]
+          },
+          {label: Pasos de Preparación, name: prepSteps, widget: list, fields: [
+            {label: Paso, name: step, widget: markdown}
+            ]
+          },
+          {label: Categoría, name: category, widget: list},
+          {label: Sub-Categoría, name: subcategory, widget: list},
+          {label: Etiquetas, name: tags, widget: list}
+
+        ]}
