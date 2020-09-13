@@ -27,6 +27,17 @@ recipe:
     - ingredient: 1/2 cup cornmeal
     - ingredient: 1/2 cup shredded cheese, like sharp cheddar or havarti
     - ingredient: 1 teaspoon salt
+  prepSteps:
+    - step: >-
+        
+
+        1. **Cauliflower Mash:** Heat the olive oil in a large soup pot. Add the cauliflower and garlic. Saute for a minute or two, until the garlic is fragrant. Add the milk and 2 cups broth. Simmer for 10 minutes or until soft. Add the white beans and mash roughly with the back of a large wooden spoon. It will be soupy – that’s okay. Stir in the cornmeal and things will start to thicken a bit. Adjust the consistency by adding in the last cup of broth as needed. Stir in the cheese and season to taste.
+
+        2. **Kale:** Heat the bacon fat in a nonstick skillet over medium low heat. Add the greens and garlic and saute until softened. For the kalettes, I added a little water at the end to sort of steam them to finish them off. Remove kale and wipe out pan with a paper towel.
+
+        3. **Shrimp:** In the same skillet, add the oil over medium heat. Pat the shrimp dry. Add to the pan and sprinkle with seasonings to taste. Cook for just a few minutes and then add a quick splash of water or broth to the pan (about 2 tablespoons) to pull the browned bits and spices into something of a saucy-coating for the shrimp. It’s delicious.
+
+        4. **Serve:** Serve the shrimp and kale over a big pile of cauliflower mash! SO yummy.
 ---
 A pile of creamy cauliflower mash sets the stage and then gets tucked in by those smoky greens before finally getting piled high with a mound of aggressively seasoned, salty, juicy shrimp.
 
