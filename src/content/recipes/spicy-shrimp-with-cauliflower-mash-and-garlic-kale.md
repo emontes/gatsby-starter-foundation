@@ -19,3 +19,7 @@ Do you even hear me? Leave work immediately. Pack the kids in the car. Go to the
 It is peak cozy, nutritious, and cool-weather wonderful.
 
 ![Image 2](/assets/shrimp-and-cauliflower-1-3.jpg "Shrimp")
+
+## LET’S TALK KALE AND BACON FAT
+
+Let’s break this down, because shrimp is straightforward, and cauliflower mash is mostly reasonable, but when I say smoky garlic kale, what I really mean is KALE or KALETTES (!!) sautéed with garlic in a little knoblet of bacon fat.
